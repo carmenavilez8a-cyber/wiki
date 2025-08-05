@@ -1,3 +1,4 @@
+mirorr bot
 ## Windows
 
 RLBot was originally made for Windows, so Windows has the best support. Users are encouraged to watch [this video](https://www.youtube.com/watch?v=oXkbizklI2U) to get started quickly with RLBotGUI!
